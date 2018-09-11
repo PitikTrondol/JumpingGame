@@ -1,0 +1,53 @@
+MAIN_MENU.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACKGROUND
+  rotate: false
+  xy: 2, 2
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+OPTION_PRESSED
+  rotate: false
+  xy: 804, 2
+  size: 154, 73
+  orig: 154, 74
+  offset: 0, 0
+  index: -1
+OPTION
+  rotate: false
+  xy: 2, 484
+  size: 154, 80
+  orig: 154, 80
+  offset: 0, 0
+  index: -1
+PLAY_PRESSED
+  rotate: false
+  xy: 158, 484
+  size: 229, 108
+  orig: 229, 108
+  offset: 0, 0
+  index: -1
+PLAY
+  rotate: false
+  xy: 389, 484
+  size: 229, 115
+  orig: 229, 115
+  offset: 0, 0
+  index: -1
+QUIT_PRESSED
+  rotate: false
+  xy: 620, 484
+  size: 156, 78
+  orig: 161, 85
+  offset: 3, 1
+  index: -1
+QUIT
+  rotate: false
+  xy: 778, 484
+  size: 156, 83
+  orig: 161, 85
+  offset: 3, 1
+  index: -1

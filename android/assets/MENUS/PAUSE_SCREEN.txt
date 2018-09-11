@@ -1,0 +1,32 @@
+PAUSE_SCREEN.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+envi3
+  rotate: false
+  xy: 2, 2
+  size: 340, 260
+  orig: 340, 260
+  offset: 0, 0
+  index: 1
+envi2
+  rotate: false
+  xy: 344, 2
+  size: 340, 260
+  orig: 340, 260
+  offset: 0, 0
+  index: 2
+envi1
+  rotate: false
+  xy: 686, 2
+  size: 340, 260
+  orig: 340, 260
+  offset: 0, 0
+  index: 3
+pauseBG
+  rotate: false
+  xy: 1028, 2
+  size: 395, 406
+  orig: 395, 406
+  offset: 0, 0
+  index: -1

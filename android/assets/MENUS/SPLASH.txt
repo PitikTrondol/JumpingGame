@@ -1,0 +1,11 @@
+SPLASH.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPLASH
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1

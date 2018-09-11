@@ -1,0 +1,74 @@
+MM_HERO.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero1
+  rotate: false
+  xy: 2, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero10
+  rotate: false
+  xy: 190, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero2
+  rotate: false
+  xy: 378, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero3
+  rotate: false
+  xy: 566, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero4
+  rotate: false
+  xy: 754, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero5
+  rotate: false
+  xy: 942, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero6
+  rotate: false
+  xy: 1130, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero7
+  rotate: false
+  xy: 1318, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero8
+  rotate: false
+  xy: 566, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+hero9
+  rotate: false
+  xy: 1506, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1

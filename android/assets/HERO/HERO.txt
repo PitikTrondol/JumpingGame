@@ -1,0 +1,81 @@
+HERO.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duck
+  rotate: false
+  xy: 2, 2
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 2, 101
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+run1
+  rotate: false
+  xy: 2, 210
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run2
+  rotate: false
+  xy: 2, 346
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run3
+  rotate: false
+  xy: 2, 482
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run4
+  rotate: false
+  xy: 2, 618
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run5
+  rotate: false
+  xy: 2, 754
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run6
+  rotate: false
+  xy: 2, 890
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run7
+  rotate: false
+  xy: 2, 1026
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+run8
+  rotate: false
+  xy: 2, 1162
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+slide
+  rotate: false
+  xy: 2, 1298
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
