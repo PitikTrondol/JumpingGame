@@ -3,6 +3,8 @@ package com.afriandi.project.screens;
 import java.util.Random;
 
 import com.afriandi.project.TakeItGame;
+import com.afriandi.project.utils.ResourceManager;
+import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.utils.IntMap;
@@ -35,7 +37,7 @@ public class ScreenManager
 	{
 		if(smInstance == null)
 			smInstance = new ScreenManager();
-		
+
 		return smInstance;
 	}
 	
@@ -45,8 +47,9 @@ public class ScreenManager
 		this.game = game;
 		isTutorial = false;
 
+        ResourceManager.instance().loadFonts();
+
 		setupCamera();
-		setState(Constants.STATE_SPLASH);
 		show(ScreenEnums.SPLASH);
 	}
 	
@@ -101,7 +104,7 @@ public class ScreenManager
 		{
             screen.dispose();
         }
-		
+
         screens.clear();
         smInstance = null;
 	}

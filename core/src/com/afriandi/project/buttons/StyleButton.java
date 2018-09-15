@@ -23,7 +23,8 @@ public class StyleButton extends GameButtons
         float oldY = bounds.y;
         boolean hover = getClickListener().isOver();
         
-        if(	!(getRegionName().equalsIgnoreCase("score") || getRegionName().equalsIgnoreCase("level")) )
+        if(	!(getRegionName().equalsIgnoreCase("score")
+				|| getRegionName().equalsIgnoreCase("level")) )
         {
 	    	this.setX(hover ? bounds.x + 2 : oldX);
 	    	this.setY(hover ? bounds.y - 2 : oldY);

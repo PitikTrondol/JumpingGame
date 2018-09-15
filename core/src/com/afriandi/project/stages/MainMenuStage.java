@@ -54,7 +54,10 @@ public class MainMenuStage extends Stage
 	
 	public MainMenuStage()
 	{
-		super(new ScalingViewport(Scaling.stretch, VIEWPORT_WIDTH, VIEWPORT_HEIGHT, new OrthographicCamera(VIEWPORT_WIDTH, VIEWPORT_HEIGHT)));
+		super(new ScalingViewport(Scaling.stretch,
+				VIEWPORT_WIDTH,
+                VIEWPORT_HEIGHT,
+                new OrthographicCamera(VIEWPORT_WIDTH, VIEWPORT_HEIGHT)));
 		
 		bg = new Texture(Gdx.files.internal(Constants.SPLASH_BG));
 		TextureAtlas textureAtlas = new TextureAtlas(Constants.MM_HERO_ATLAS);

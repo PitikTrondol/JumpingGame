@@ -62,6 +62,7 @@ public abstract class GameButtons extends Button
 	
 	protected abstract String getRegionName();
 	public abstract void action();
+
 	public interface ButtonListener
 	{
 		public void OnRelease();
